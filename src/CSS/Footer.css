@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#footer {
+  background-color: rgba(177, 177, 177, 0.785);
+  display: flex;
+  justify-content: space-between;
+  padding: 6px;
+  width: 100%;
+}
+
+#footer img {
+  margin: 0 15px;
+}

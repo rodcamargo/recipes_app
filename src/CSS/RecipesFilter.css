@@ -1,0 +1,16 @@
+.btn-fav {
+  background-color: #570b0b;
+  color: white;
+  border: none;
+  border-radius: 15px;
+  font-weight: 900;
+  font-size: 22px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 0.4rem;
+  padding: 20px 10px;
+  width: 300px;
+}
+
+.btn-fav:hover {
+  background-color: #7c2626;
+}

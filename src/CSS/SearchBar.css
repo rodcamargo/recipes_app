@@ -1,0 +1,63 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#food-select {
+  border: none;
+  padding: 0 10px;
+  margin-bottom: 5px;
+}
+
+#btn-search {
+  margin-left: 10px;
+  width: 300px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+#btn-search:hover {
+  background-color: rgb(41, 41, 41);
+  color: white;
+}
+
+#nome {
+  margin-left: 8px;
+}
+
+#primeira-letra {
+  margin-left: 8px;
+}
+
+#search-bar {
+  display: flex;
+  margin: 8px 2px;
+}
+
+#search-bar button {
+  border: none;
+  padding: 5px;
+  border-radius: 10px;
+  background-color: #dfdfb1;
+}
+
+#search-bar input {
+  border: none;
+  padding: 5px;
+  background-color: #ffffd4;
+}
+
+#ingrediente, #nome, #primeira-letra {
+  margin-right: 2px;
+
+}
+
+#search-input {
+  font-size: 25px;
+  margin: 4px;
+}
+
+#search-input::placeholder {
+  color: #c4c4a1;
+}

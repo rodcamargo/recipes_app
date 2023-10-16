@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.page-profile {
+  background-color: #fffbc2;
+}
+#profile {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px;
+}
+
+#profile button {
+  background-color: #570b0b;
+  color: white;
+  border: none;
+  border-radius: 15px;
+  font-weight: 900;
+  font-size: 22px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 15px 0;
+  padding: 20px 10px;
+  width: 300px;
+}
+
+#profile button:hover {
+  background-color: #7c2626;
+}
+
+#profile p {
+  font-size: 22px;
+  margin-bottom: 15px;
+}

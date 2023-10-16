@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#categories-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 10px;
+}
+
+#categories-container button {
+  background-color: rgb(41, 41, 41);
+  border: none;
+  border-radius: 8px;
+  color: white;
+  font-size: 16px;
+  margin: 2px;
+  padding: 8px 10px;
+}
+
+#categories-container button:hover {
+  background-color: #747474;
+}

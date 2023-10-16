@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#main button{
+  background-color: white;
+  border: none;
+  margin: 10px 15px;
+}
